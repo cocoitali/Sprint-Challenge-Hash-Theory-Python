@@ -73,5 +73,5 @@ A     B     C      carry   sum
 1     1     0        1      0
 1     1     1        1      1
 ```
-* SUM = (A XOR B) XOR C
-* CARRY = A && B || C (A XOR B)
+* SUM = (A xor B) xor C
+* CARRY = A && B || C(A xor B)
